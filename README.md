@@ -1,4 +1,5 @@
 # gan-ultrasound-augmentation
+![Alt text](IMAGES/repository-template.png "Multiple Snapshot Pix2Pix Process")
 
 Related Paper: Zaman, A., Park, S.H., Bang, H. et al. Generative approach for data augmentation for deep learning-based bone surface segmentation from ultrasound images. Int J CARS 15, 931–941 (2020). https://doi.org/10.1007/s11548-020-02192-1
 
