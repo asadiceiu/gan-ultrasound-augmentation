@@ -3,7 +3,7 @@
 
 Related Paper: Zaman, A., Park, S.H., Bang, H. et al. Generative approach for data augmentation for deep learning-based bone surface segmentation from ultrasound images. Int J CARS 15, 931–941 (2020). https://doi.org/10.1007/s11548-020-02192-1
 
-### Paper Abstract [Paper Link](Journal-Paper.pdf)
+### Paper Abstract [Paper Link](Research-Paper.pdf)
 #### Purpose
 Precise localization of cystic bone lesions is crucial for osteolytic bone tumor surgery. Recently, there is a move toward ultrasound imaging over plain radiographs (X-rays) for intra-operative navigation due to the radiation-free and cost-effectiveness of the modality. In this process, the intra-operative bone model reconstructed from the segmented ultrasound image is registered with the pre-operative bone model. Deep learning approaches have recently shown remarkable success in bone surface segmentation from ultrasound images. However, to train deep learning models effectively with limited dataset size, data augmentation is essential. This study investigates the applicability of the generative approach for data augmentation as well as identifies standard data augmentation approaches for bone surface segmentation from ultrasound images.
 
